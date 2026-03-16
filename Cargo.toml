@@ -1,3 +1,5 @@
+[workspace]
+
 [package]
 name = "parture_openai_realtime_client"
 version = "0.1.0"
